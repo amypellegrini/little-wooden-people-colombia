@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+    max-width: 61%;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
+
+dl {
+    text-align: left;
+}
+
+dl dt {
+    font-weight: bold;
+    margin: 0.5rem 0;
+}
+
+.section {
+    max-width: 61%;
+    margin: 0 auto;
+}
+
+.details {
+    margin-bottom: 8rem;
+}
